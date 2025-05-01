@@ -5,7 +5,7 @@ app = "electric-service"
 
 [env]
   DATABASE_URL = "postgresql://postgres:jd7dnajsr3r2@db.aedtbwqxqsprgyljybuv.supabase.co:5432/postgres"
-  https://electric-service.fly.dev/ELECTRIC_DATABASE_USE_IPV6 = true
+  ELECTRIC_DATABASE_USE_IPV6 = true
   ELECTRIC_SECRET = "3ee928daff08063550b7a094cbac348b74427d8eaf65003221e0ded79d53fcec"
 
 [http_service]
