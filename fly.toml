@@ -1,4 +1,4 @@
-app = "YOUR_UNIQUE_APP_NAME"
+app = "electric-service"
 
 [build]
   image = "electricsql/electric:latest"
